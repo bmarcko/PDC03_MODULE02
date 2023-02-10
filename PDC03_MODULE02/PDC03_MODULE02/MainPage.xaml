@@ -24,7 +24,7 @@
         <Button Text="Submit" Clicked="OpenActivity1"/>
         <Button Text="Submit" Clicked="OpenActivity2"/>
         <Button Text="Random"/>
-        <Button Text="sample"/>
+        <Button Text="tesing for second commit"/>
     </StackLayout>
 
 </ContentPage>

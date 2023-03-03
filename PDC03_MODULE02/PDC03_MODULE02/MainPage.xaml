@@ -21,10 +21,11 @@
             </Label.FormattedText>
         </Label>
 
-        <Button Text="Submit" Clicked="OpenActivity1"/>
-        <Button Text="Submit" Clicked="OpenActivity2"/>
-        <Button Text="Random"/>
-        <Button Text="tesing for second commit"/>
+        <Button Text="Activity 1" Clicked="OpenActivity1"/>
+        <Button Text="Activity 2" Clicked="OpenActivity2"/>
+        <Button Text="Activity 3" Clicked="OpenActivity3"/>
+        <Button Text="Activity 4" Clicked="OpenActivity4"/>
+        <Button Text="Activity 5" Clicked="OpenActivity5"/>
     </StackLayout>
 
 </ContentPage>
